@@ -1,7 +1,3 @@
 [submodule "dcsrn-pnorm"]
 	path = dcsrn-pnorm
 	url = https://karlkhader@bitbucket.org/icaiuma/dcsrn-pnorm.git
-[submodule "srcnn3d-pnorm"]
-	path = srcnn3d-pnorm
-	url = https://karlkhader@bitbucket.org/icaiuma/srcnn3d-pnorm.git
-	branch = master
